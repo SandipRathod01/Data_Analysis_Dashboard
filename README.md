@@ -7,7 +7,7 @@ details
 
 
 ## Questions
--analyzing data monthly, Quaterly and ?
+-analyzing data monthly, Quaterly and yearly?
 -comaparising sales category-wise with region-wise?
 -adding KPI like Total_Revenue,total_quantity,and  Total_growth?
 -which product earn more or earn less items?
