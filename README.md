@@ -23,3 +23,13 @@ details
 
 ## Dashboard
 <img width="1375" height="747" alt="Screenshot 2026-06-03 204322" src="https://github.com/user-attachments/assets/76afeffb-aa22-4fac-81e5-b82510a3bbd0" />
+
+## Project-insights
+Total Sales Analysis (7.18M)
+Total Quantity Tracking (22K)
+ Profit Analysis (175.26K)
+ Top 5 Products Performance
+ Low-Performing Product Analysis
+ Regional & Category-wise Sales Insights
+ Payment Mode Analysis
+ Interactive Filters for better decision-making
