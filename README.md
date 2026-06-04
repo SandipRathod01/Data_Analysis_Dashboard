@@ -17,7 +17,7 @@ date  slicers
 category slicers
 
 
-## Dashboard interctive <ahttps://github.com/SandipRathod01/Data_Analysis_Dashboard/blob/main/Screenshot%202026-06-03%20204322.png> View Dashboard</a>
+## Dashboard interctive <https://github.com/SandipRathod01/Data_Analysis_Dashboard/blob/main/Screenshot%202026-06-03%20204322.png> View Dashboard</a>
 
 
 ## Dashboard
