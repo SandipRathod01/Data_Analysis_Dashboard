@@ -3,7 +3,7 @@ details
    i have created interactive dashboard i have selected as data analysis intern
    
 ## dataset Used
- -<a https://github.com/SandipRathod01/Data_Analysis_Dashboard/blob/main/SuperStore_Sales_Dataset.csv1> Dataset</a>
+ -<a https://github.com/SandipRathod01/Data_Analysis_Dashboard/blob/main/SuperStore_Sales_Dataset.csv1> Dataset </a>
 
 
 ## Questions
@@ -17,7 +17,8 @@ date  slicers
 category slicers
 
 
-## Dashboard interctive <https://github.com/SandipRathod01/Data_Analysis_Dashboard/blob/main/Screenshot%202026-06-03%20204322.png> View Dashboard</a>
+## Dashboard interctive 
+<a https://github.com/SandipRathod01/Data_Analysis_Dashboard/blob/main/Screenshot%202026-06-03%20204322.png> View Dashboard</a>
 
 
 ## Dashboard
