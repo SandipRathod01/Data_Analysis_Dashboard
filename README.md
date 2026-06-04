@@ -2,11 +2,11 @@ Super_store_data_Analysis
 details
    i have created interactive dashboard i have selected as data analysis intern
    
-## dataset Used
- -<a href="https://github.com/SandipRathod01/Data_Analysis_Dashboard/blob/main/SuperStore_Sales_Dataset.csv1"> Dataset </a>
+## Dataset Used
+ <a href="https://github.com/SandipRathod01/Data_Analysis_Dashboard/blob/main/SuperStore_Sales_Dataset.csv1"> Dataset </a>
 
 
-## Questions
+## Questions:
 -analyzing data monthly, Quaterly and yearly?
 -comaparising sales category-wise with region-wise?
 -adding KPI like Total_Revenue,total_quantity,and  Total_growth?
